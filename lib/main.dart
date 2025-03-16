@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'Basic_Widget/text_widget.dart';
 import 'Basic_Widget/image_widget.dart';
-
+import 'Basic_Widget/loading_cupertino.dart';
 
 void main() {
   runApp(const MyApp());
@@ -9,6 +9,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+  
 
   // This widget is the root of your application.
   @override
