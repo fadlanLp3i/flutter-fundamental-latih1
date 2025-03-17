@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'Basic_Widget/text_widget.dart';
 import 'Basic_Widget/image_widget.dart';
 import 'Basic_Widget/loading_cupertino.dart';
+import 'Basic_Widget/Floating_Action_Button.dart';
 
 void main() {
   runApp(const MyApp());
@@ -116,10 +117,10 @@ class _MyHomePageState extends State<MyHomePage> {
           ],
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: const Icon(Icons.add),
+      floatingActionButton:  FloatingActionButtonExample(
+        // onPressed: _incrementCounter,
+        // tooltip: 'Increment',
+        // child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }

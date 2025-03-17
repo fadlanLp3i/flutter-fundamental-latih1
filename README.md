@@ -11,3 +11,5 @@ Praktikum 4
 
 Praktikum 5
 ![Schrenshoot Hello Word](IMG/04.png)
+![Schrenshoot Hello Word](IMG/Success%2005.1.png)
+![Schrenshoot Hello Word](IMG/Success%2005.2.png)
